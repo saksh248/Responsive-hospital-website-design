@@ -1,1 +1,1 @@
-PROJECT- Complete responsive hospital website design using html css and javascript
+Developed a dynamic and responsive hospital website using Html, Css, and JavaScript, ensuring user-friendly navigation 
